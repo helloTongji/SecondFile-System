@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/tongji.ico</file>
+        <file>Resource/start.PNG</file>
+    </qresource>
+</RCC>
